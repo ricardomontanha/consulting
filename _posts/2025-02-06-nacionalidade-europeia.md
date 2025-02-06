@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: lisboa-1.jpg
 ---
 
-Oferecemos consultoria especializada para obtenção de nacionalidade portuguesa, espanhola e italiana. O nosso objetivo é fornecer um serviço simples, eficiente e personalizado, guiando cada cliente em todas as etapas do processo. Abaixo, encontrará tudo o que precisa para iniciar o seu pedido com segurança e confiança.
+Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
 ## Getting Started
 
