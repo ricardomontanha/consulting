@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Bem vindo!"
+author: "Ricardo Montanha"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
