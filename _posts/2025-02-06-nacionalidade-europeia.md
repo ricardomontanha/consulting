@@ -9,7 +9,7 @@ image: lisboa-1.jpg
 
 Oferecemos consultoria especializada para obtenção de nacionalidade portuguesa, espanhola e italiana. O nosso objetivo é fornecer um serviço simples, eficiente e personalizado, guiando cada cliente em todas as etapas do processo. Abaixo, encontrará tudo o que precisa para iniciar o seu pedido com segurança e confiança.
 
-## Getting Started
+## Início
 
 [Início]({{ site.github.url }}{% post_url 2025-02-06-inicio %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
