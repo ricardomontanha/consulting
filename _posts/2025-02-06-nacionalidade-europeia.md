@@ -1,42 +1,42 @@
 ---
 layout: post
-title: "Nacionalidade Europeia"
+title: "Nacionalidade Européia"
 author: "Ricardo Montanha"
-categories:
-  - documentation
-tags:
-  - documentation
-  - sample
-image: "lisboa-1.jpg"
+categories: documentation
+tags: [documentation,sample]
+image: lisboa-1.jpg
 ---
 
 Oferecemos consultoria especializada para obtenção de nacionalidade portuguesa, espanhola e italiana. O nosso objetivo é fornecer um serviço simples, eficiente e personalizado, guiando cada cliente em todas as etapas do processo. Abaixo, encontrará tudo o que precisa para iniciar o seu pedido com segurança e confiança.
 
 ## Início
 
-[Início]({{ site.baseurl }}/2025/02/06/inicio.html): Aprenda como começar a utilizar o tema Millennial, seja você um novato no Jekyll ou apenas esteja migrando para um novo tema.
+[Início]({{ site.github.url }}{% post_url 2025-02-06-inicio %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
-## Exemplo de Conteúdo
+## Example Content
 
-[Texto e Formatação]({{ site.baseurl }}{% post_url 2016-09-09-text-formatting %})
+[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
 
-## Dúvidas?
+## Questions?
 
-Este tema é completamente gratuito e de código aberto. Você pode usá-lo como quiser, pois é distribuído sob a [Licença MIT](https://choosealicense.com/licenses/mit/).  
-Se estiver com problemas, dúvidas ou sugestões, fique à vontade para [enviar um tweet](https://twitter.com/intent/tweet?text=Minha%20dúvida%20sobre%20Millennial;via=paululele), ou [abrir uma issue no GitHub](https://github.com/lenpaul/Millennial/issues/new).
+This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
-## Mais Jekyll!
+## More Jekyll!
 
 ### Lagrange
 
-Lagrange é um tema Jekyll minimalista que desenvolvi do zero. O objetivo deste tema é fornecer uma plataforma de blog simples, limpa e focada no conteúdo para o seu site pessoal.
+Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
 
-Sinta-se à vontade para conferir <a href="https://lenpaul.github.io/Lagrange/" target="_blank">a demonstração</a>, onde você também encontrará instruções sobre <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">como instalar e usar o tema</a>.
+Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
 
 ### Portfolio Jekyll Theme
 
-Este é um tema Jekyll construído utilizando o [DevTips Starter Kit](https://devtipsstarterkit.com/) como base, seguindo de perto o excelente tutorial de [Travis Neilson no DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). O objetivo deste tema é fornecer um site simples e limpo para o seu portfólio, destacando seus projetos na página inicial.
+This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
 
-Tudo o que você precisa saber sobre este tema está no [repositório do GitHub](https://github.com/LeNPaul/portfolio-jekyll-theme), que também pode ser encontrado na [página de demonstração](https://lenpaul.github.io/portfolio-jekyll-theme/).
+Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
 
 ### Jekyll Starter Kit
+
+The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+
+Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
